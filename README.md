@@ -1,2 +1,1 @@
-# IcyEight.github.io
-Checkers Game Web Application
+# CS 451 Project
